@@ -1,0 +1,9 @@
+torch==2.11.0
+torchvision==0.26.0
+torchaudio==2.11.0
+timm==1.0.26
+pandas
+numpy
+pyarrow==24.0.0
+scikit-learn
+kagglehub
